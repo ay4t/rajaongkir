@@ -4,11 +4,11 @@
 Modul ini digunakan untuk integrasi dengan rajaongkir. Jika anda tertarik akan sangat senang untuk mengembangkan dan meningkatkan fitur modul ini, silahkan Fork dan pull-request :) 
 ## Fitur yang tersedia adalah mencakup:
 
- - [Mengambil daftar semua provinsi atau ID provinsi tertentu](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Mengambil daftar semua Kota atau ID Kota tertentu](https://github.com/matiassingers/awesome-readme)
- - [Mengambil daftar semua Kecamatan atau ID Kecamatan tertentu](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Mencari Berapa biaya yang dibutuhkan untuk ongkos kirim dari wilayah asal ke wilayah tujuan](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ - [Melacak Paket dengan RESI](https://github.com/ay4t/rajaongkir/blob/main/documentation/documentation-waybill.md)
+ - [Menghitung Ongkos Kirim Paket](https://github.com/ay4t/rajaongkir/blob/main/documentation/documentation-cost.md)
+ - [Mengambil daftar semua provinsi atau ID provinsi tertentu](https://github.com/ay4t/rajaongkir/blob/main/documentation/documentation-province.md)
+ - [Mengambil daftar semua Kota atau ID Kota tertentu](https://github.com/ay4t/rajaongkir/blob/main/documentation/documentation-city.md)
+ - [Mengambil daftar semua Kecamatan atau ID Kecamatan tertentu](https://github.com/ay4t/rajaongkir/blob/main/documentation/documentation-subdistrict.md)
 
 ## Installasi dan Penggunaan
 
