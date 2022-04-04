@@ -1,6 +1,6 @@
 {
     "name": "ay4t/rajaongkir",
-    "description": "PHP module untuk rajaongkir",
+    "description": "PHP module untuk rajaongkir. Modul ini digunakan untuk integrasi dengan rajaongkir. Jika anda tertarik akan sangat senang untuk mengembangkan dan meningkatkan fitur modul ini, silahkan Fork dan pull-request :)",
     "type": "library",
     "license": "MIT",
     "keywords": [
