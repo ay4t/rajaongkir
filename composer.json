@@ -1,0 +1,27 @@
+{
+    "name": "ay4t/rajaongkir",
+    "description": "PHP module untuk rajaongkir",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter",
+        "rajaongkir",
+        "codeigniter 4"
+    ],
+    "homepage": "https://github.com/ay4t/rajaongkir",
+    "authors": [
+        {
+            "name": "Ayatulloh Ahad R",
+            "email": "ayatulloh@indiega.net"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Ay4t\\Rajaongkir\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
