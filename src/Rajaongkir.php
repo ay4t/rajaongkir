@@ -132,11 +132,9 @@ class Rajaongkir
         // Close request to clear up some resources
         curl_close($curl);
 
-        var_dump($parameters);
-
         // Return the decoded response as an associative array
-        return json_decode($response, TRUE);
-        // return $response;
+        $output     = json_decode($response, TRUE);
+        return $output['rajaongkir'];
     }
 
     /**
